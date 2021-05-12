@@ -1,3 +1,4 @@
 job:
   script:
     - echo "hello world"
+    - echo "deu certo"
